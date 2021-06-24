@@ -1,0 +1,1 @@
+(function(){var b=("abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video").split(","),a=b.length;while(a--){document.createElement(b[a])}})();
